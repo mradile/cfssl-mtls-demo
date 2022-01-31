@@ -1,0 +1,16 @@
+{
+  "CN": "client.cfssldemo.radile.net",
+  "key": {
+    "algo": "rsa",
+    "size": 4096
+  },
+  "names": [
+    {
+      "C":  "DE",
+      "L":  "Cologne",
+      "O":  "Martin Radile",
+      "OU": "client cfssl demo",
+      "ST": "NRW"
+    }
+  ]
+}

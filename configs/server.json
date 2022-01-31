@@ -1,0 +1,20 @@
+{
+  "hosts": [
+    "server.cfssldemo.radile.net",
+    "127.0.0.1",
+    "localhost"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 4096
+  },
+  "names": [
+    {
+      "C":  "DE",
+      "L":  "Cologne",
+      "O":  "Martin Radile",
+      "OU": "server cfssl demo",
+      "ST": "NRW"
+    }
+  ]
+}
