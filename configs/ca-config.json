@@ -1,8 +1,5 @@
 {
   "signing": {
-    "default": {
-      "expiry": "8760h"
-    },
     "profiles": {
       "client": {
         "usages": ["client auth"],
